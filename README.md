@@ -91,31 +91,31 @@ predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000,we predict a profit of $" +str(round(predict2,0)))
 ```
 ## Output:
-profit prediction
+1.profit prediction
 
 ![image](https://github.com/Vanisha0609/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104009/364a60fa-689d-420c-8182-8fbb7c7b7325)
 
-function output
+2.function output
 
 ![image](https://github.com/Vanisha0609/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104009/75ed7cb1-4236-423e-9d87-bef66c87047d)
 
-Gradient Descent
+3.Gradient Descent
 
 ![image](https://github.com/Vanisha0609/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104009/91192bba-083a-46ee-bc65-3b74d27f99c7)
 
-Cost function using gradient descent
+4.Cost function using gradient descent
 
 ![image](https://github.com/Vanisha0609/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104009/0cea68d5-88ba-40de-a393-e28a378ac6af)
 
-Linear regression using profit prediction
+5.Linear regression using profit prediction
 
 ![image](https://github.com/Vanisha0609/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104009/a65c2b53-24ae-4ebd-8eff-9a381f804de6)
 
-Profit prediction for a population of 35,000
+6.Profit prediction for a population of 35,000
 
 ![image](https://github.com/Vanisha0609/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104009/3e9d257a-8d61-4a6f-bd67-79f70a02cfb2)
 
-Profit prediction for a population of 70,000
+7.Profit prediction for a population of 70,000
 
 ![image](https://github.com/Vanisha0609/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104009/28d92d14-7909-4770-80ee-884c5813b2d8)
 
